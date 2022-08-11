@@ -1,1 +1,2 @@
-# my-timer
+# My-Timer
+[DEMO]
