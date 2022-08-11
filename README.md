@@ -1,2 +1,2 @@
 # My-Timer
-[DEMO]
+[DEMO](https://isergeich22.github.io/my-timer/)
